@@ -3,7 +3,7 @@ import { deleteApp, getApps,getApp ,initializeApp } from "firebase/app";
 import {getAuth, setPersistence , inMemoryPersistence} from 'firebase/auth';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDQNNGTzbNrcQGn5pKvmf7u5t6TzESGUo4",
+    apiKey: [Google Gemini -  API_KEY],
     authDomain: "whatsapp-database-ca425.firebaseapp.com",
     databaseURL: "https://whatsapp-database-ca425-default-rtdb.asia-southeast1.firebasedatabase.app",
     projectId: "whatsapp-database-ca425",
